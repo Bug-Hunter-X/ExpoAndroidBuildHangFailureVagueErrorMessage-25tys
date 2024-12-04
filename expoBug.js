@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to build an Android app.  The error message is vague and unhelpful.  The build process seems to hang indefinitely or fail without providing a clear indication of the problem's root cause. The project builds successfully on iOS without issues.
